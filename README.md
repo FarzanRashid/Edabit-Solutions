@@ -1,2 +1,2 @@
 # Edabit-Solutions
-Solutions of edabit challenges
+This repository contains python solutions of edabit challenges. 
